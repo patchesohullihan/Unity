@@ -1,0 +1,4 @@
+mcp
+bpy
+blenderproc
+requests
